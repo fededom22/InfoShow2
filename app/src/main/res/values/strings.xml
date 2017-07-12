@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InfoShow</string>
+    <string name="title_activity_tabs_activity">tabs_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="genero_eventos">Eventos</string>
+    <string name="genero_recitales">Recitales</string>
+    <string name="genero_cine">Cine</string>
+    <string name="genero_teatro">Teatro</string>
+    <string name="event_name">Nombre del evento</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sign_in_with_facebook">Sign In With Facebook</string>
+    <string name="title_activity_calendar">Calendario</string>
+
+    <string name="facebook_application_id" translatable="false">143233969532822</string>
+    <string name="twitter_consumer_key" translatable="false">qSVIBxyBLkMYci5B6EYb6QKRu</string>
+    <string name="twitter_consumer_secret" translatable="false">erWexPVTgSTSl2Zic0OBaToQvGktsNWvesPMiegB9bhKoS8lcw</string>
+
+
+
+</resources>
